@@ -312,6 +312,7 @@ ChannelsImporter/po/Makefile
 ChannelsImporter/src/Makefile
 
 Chromium/Makefile
+Chromium/meta/Makefile
 Chromium/po/Makefile
 Chromium/src/Makefile
 
