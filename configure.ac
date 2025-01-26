@@ -311,6 +311,10 @@ ChannelsImporter/meta/Makefile
 ChannelsImporter/po/Makefile
 ChannelsImporter/src/Makefile
 
+Chromium/Makefile
+Chromium/po/Makefile
+Chromium/src/Makefile
+
 DLNABrowser/Makefile
 DLNABrowser/src/Makefile
 DLNABrowser/icons/Makefile
