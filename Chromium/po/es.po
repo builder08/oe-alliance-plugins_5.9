@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chromium\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: VillaK <soporte@openspa.info>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Chromium"
+msgstr "Chromium"
+
+msgid "Use EGL Hardware acceleration"
+msgstr "Usar aceleración de hardware EGL"
+
+msgid "Show Chromium in Mainmenu"
+msgstr "Mostar Chromium en Menú Principal"
+
+msgid "Show YouTubeTV in Mainmenu"
+msgstr "Mostrar YouTubeTV en Menú Principal"
+
+msgid "Show Disney in Mainmenu"
+msgstr "Mostrar Disney en Menú Principal"
+
+msgid "Show Netflix in Mainmenu"
+msgstr "Mostrar Netflix en Menú Principal"
+
+msgid "Show Dazn in Mainmenu"
+msgstr "Mostrar Dazn en Menú Principal"
+
+msgid "Show Prime Video in Mainmenu"
+msgstr "Mostrar Prime Video en Menú Principal"
+
+msgid "Start Chromium with enigma2 (Autostart)"
+msgstr "Iniciar Chromium con enigma2 (Inicio automático)"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Set this as default?"
+msgstr "¿Establecer como predeterminado?"
