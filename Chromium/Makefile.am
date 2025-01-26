@@ -1,1 +1,1 @@
-SUBDIRS = src po
+SUBDIRS = meta src po
